@@ -1,4 +1,4 @@
-# symmetrical-enigma
+# MAZE-SOLVER
 
 # installation 
 
